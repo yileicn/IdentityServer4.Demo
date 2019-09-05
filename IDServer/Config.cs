@@ -21,7 +21,7 @@ namespace IDServer
             };
         }
 
-        public static IEnumerable<ApiResource> GetApis()
+        public static IEnumerable<ApiResource> GetApiResources()
         {
             return new List<ApiResource>
             {
