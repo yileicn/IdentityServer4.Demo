@@ -1,6 +1,6 @@
 using System;
 
-namespace FM.SSO.Models
+namespace IDServer.Models
 {
     public class ErrorViewModel
     {

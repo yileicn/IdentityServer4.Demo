@@ -7,7 +7,7 @@ using System.Linq;
 using System.Security.Claims;
 using System.Threading.Tasks;
 
-namespace FM.SSO
+namespace IDServer
 {
     /// <summary>
     /// Profile就是用户资料，ids 4里面定义了一个IProfileService的接口用来获取用户的一些信息，

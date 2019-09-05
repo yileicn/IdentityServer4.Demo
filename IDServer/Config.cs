@@ -7,7 +7,7 @@ using System.Linq;
 using System.Security.Claims;
 using System.Threading.Tasks;
 
-namespace FM.SSO
+namespace IDServer
 {
     public static class Config
     {
